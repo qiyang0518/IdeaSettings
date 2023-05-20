@@ -1,0 +1,7 @@
+<templateSet group="Java">
+  <template name="tc" value="try&#10;{}&#10;catch (Exception e)&#10;{}&#10;finally&#10;{}" description="try-catch-finally" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>

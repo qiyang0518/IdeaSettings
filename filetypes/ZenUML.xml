@@ -1,0 +1,18 @@
+<filetype binary="false" description="ZenUML" name="ZenUML">
+  <highlighting>
+    <options>
+      <option name="LINE_COMMENT" value="//" />
+      <option name="COMMENT_START" value="/**" />
+      <option name="COMMENT_END" value="*/" />
+      <option name="HAS_BRACES" value="true" />
+      <option name="HAS_BRACKETS" value="true" />
+      <option name="HAS_PARENS" value="true" />
+      <option name="HAS_STRING_ESCAPES" value="true" />
+    </options>
+    <keywords keywords="as;catch;else;false;finally;for;forEach;foreach;group;if;in;loop;new;nil;opt;par;return;title;true;try;while" ignore_case="false" />
+    <keywords2 keywords="@Reply;@Return;@Starter;@reply;@return;@starter" />
+    <keywords3 keywords="!;!=;#;%;&amp;&amp;;*;+;,;-;-&gt;;.;/;:;&lt;;&lt;&lt;;&lt;=;==;&gt;;&gt;=;&gt;&gt;;@;^;||">
+      <keyword name=";" />
+    </keywords3>
+  </highlighting>
+</filetype>
