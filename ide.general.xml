@@ -5,4 +5,7 @@
     <option name="processCloseConfirmation" value="TERMINATE" />
     <option name="showTipsOnStartup" value="false" />
   </component>
+  <component name="Registry">
+    <entry key="javaee.legacy.project.wizard" value="true" />
+  </component>
 </application>
