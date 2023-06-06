@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="Jsp笔记" type="AUTO_DETECTED" />
       <mapping pattern="LeetCode算法" type="AUTO_DETECTED" />
+      <mapping pattern="Spring学习笔记" type="AUTO_DETECTED" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
